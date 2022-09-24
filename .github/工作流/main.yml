@@ -23,9 +23,9 @@ jobs:
     - run: pip install -r ./requirements.txt && python ./main.py
 
     env:
-      APP_ID: ${{ secrets.APP_ID }}
-      APP_SECRET: ${{ secrets.APP_SECRET }}
-      TEMPLATE_ID: ${{ secrets.TEMPLATE_ID }}
+      APP_ID: ${{ secrets.wxb50084d076e2a089 }}
+      APP_SECRET: ${{ secrets.1a724d4ff6703 }}
+      TEMPLATE_ID: ${{ secrets. Fodug9kQgupBcEXAVCcM6won1Ownnhin'bc17tXeEdc}}
       USER_ID: ${{ secrets.USER_ID }}
       START_DATE: ${{ secrets.START_DATE }}
       BIRTHDAY: ${{ secrets.BIRTHDAY }}
